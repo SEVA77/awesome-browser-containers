@@ -46,9 +46,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [Contain LinkedIn](https://addons.mozilla.org/en-US/firefox/addon/linkedin-container)
 - [Contain Git](https://addons.mozilla.org/en-US/firefox/addon/contain-git)
 - [Contain Reddit](https://addons.mozilla.org/en-US/firefox/addon/contain-reddit)
-- [Contain Porn Sites](https://addons.mozilla.org/en-US/firefox/addon/porn-container)
-- [Contain VK](https://addons.mozilla.org/en-US/firefox/addon/vk-container)
-
+- [Contain TikTok](https://addons.mozilla.org/en-US/firefox/addon/tiktok-container/)
+- [Contain Discord](https://addons.mozilla.org/en-US/firefox/addon/discord-container/)
+- [Contain Microsoft](https://addons.mozilla.org/en-US/firefox/addon/microsoft-container/) (Has a conflict with Git container)
 
 ### Desktop Utils
 
@@ -56,6 +56,9 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 - [click-to-contain](https://gitlab.com/NamingThingsIsHard/firefox/click-to-contain) - Makes a random containers for new links you click, from tracking-heavy sites like reddit.
 - [sea containers](https://addons.mozilla.org/en-US/firefox/addon/sea-containers) - Gives you a sidebar for managing containerized tabs.
 - [Sync](https://addons.mozilla.org/en-US/firefox/addon/containers-sync) - Will let you re-open tabs on other computers.
+- [Easy Container Shortcuts](https://addons.mozilla.org/en-US/firefox/addon/easy-container-shortcuts/) - Provides nine easy keyboard shortcuts to open new tabs on different containers: Ctrl+Shift+[1-9] / or Alt+Shift+[1-9] on OSx.
+- [Sticky Window Containers](https://addons.mozilla.org/en-US/firefox/addon/sticky-window-containers/) - Tabs open in the same container as the first tab in the window.
+- [Open external links in a container](https://addons.mozilla.org/en-US/firefox/addon/open-url-in-container/) - This extension enables support for opening links in specific containers using custom protocol handler. It works for terminal, OS shortcuts and regular HTML pages.
 
 ## Chrome
 
